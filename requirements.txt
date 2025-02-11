@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+aiogram==3.3.0
+requests
+python-dotenv
+pydantic
